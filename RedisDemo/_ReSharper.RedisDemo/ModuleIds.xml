@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="15AD7E39-86E7-4BB3-9DAA-8A08C701BF65" ModuleId="RedisDemo" />
+  <Module PersistentId="Tavisca.Frameworks.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="Tavisca.Frameworks.Infrastructure" />
+  <Module PersistentId="Tavisca.Frameworks.Redis, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="Tavisca.Frameworks.Redis" />
+  <Module PersistentId="Tavisca.Frameworks.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="Tavisca.Frameworks.Infrastructure_1" />
+  <Module PersistentId="Tavisca.Frameworks.Redis, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" ModuleId="Tavisca.Frameworks.Redis_1" />
+</Modules>
