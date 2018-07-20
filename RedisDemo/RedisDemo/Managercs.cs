@@ -24,6 +24,12 @@ namespace RedisDemo
                 var objectvalue = new Translator();
                 client.LPush(key,objectvalue.ObjectToByteArray(obj));
             }
+			
+			using (var client=this.Factory.GetNativeClient())
+            {
+                var objectvalue = new Translator();
+                client.LPush(key,objectvalue.ObjectToByteArray(obj));
+            }
         }
 
         public object RetriveObject()
